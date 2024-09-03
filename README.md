@@ -41,3 +41,6 @@ home-manager switch --flake .
 ## Customization
 
 You can customize the configuration by editing the `configuration.nix` file in the `$HOME/nix/nixos` directory.
+
+
+IT DOESNT WORK STILL WIP
